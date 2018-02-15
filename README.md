@@ -1,0 +1,2 @@
+# MyDummyProject
+For Using Git
